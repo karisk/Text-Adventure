@@ -79,7 +79,8 @@ elif user_input == "Female":
              print("Hope you feel better!")
              print("Good luck in the future as a female in the industry. End of Story")
         elif user_input == "one month":
-             print("Your post-partum depression now has time to heal, but you are in a financial crisis. Your husband has to work overtime for the family, and you are left alone with the responsibility of caring for your child.")
+             print("Your post-partum depression now has time to heal, but you are in a financial crisis.")
+             print("Your husband has to work overtime for the family, and you are left alone with the responsibility of caring for your child.")
              print("Good luck in the future as a female in the industry. End of Story")
         else:
              print("Incorrect input. Try again.")
